@@ -1,0 +1,22 @@
+{
+  "name": "vite-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "vite --mode test",
+    "start": "npm run dev",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "vite": "^3.0.4"
+  },
+  "devDependencies": {
+    "vite-plugin-inspect": "^0.6.0"
+  }
+}
